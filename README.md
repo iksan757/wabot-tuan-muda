@@ -1,7 +1,7 @@
 ==========================================
       BOT WHATSAPP - TUAN MUDA
 ==========================================
-                                                     ☠️
+                  ☠️
 Silakan ikuti panduan di bawah ini untuk memulai.
 
 --- CARA INSTALL ---
@@ -28,7 +28,7 @@ Silakan ikuti panduan di bawah ini untuk memulai.
 
 --- DAFTAR PERINTAH (COMMAND) ---
 Ketik perintah ini di chat WhatsApp:
-
+j#seusaikan dengan kode negara anda!
 > !menu
   (Melihat semua daftar menu)
 
