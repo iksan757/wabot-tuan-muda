@@ -1,7 +1,8 @@
-==========================================
+==============================
+
       BOT WHATSAPP - TUAN MUDA
-==========================================
                   ☠️
+                  
 Silakan ikuti panduan di bawah ini untuk memulai.
 
 --- CARA INSTALL ---
@@ -28,7 +29,8 @@ Silakan ikuti panduan di bawah ini untuk memulai.
 
 --- DAFTAR PERINTAH (COMMAND) ---
 Ketik perintah ini di chat WhatsApp:
-j#seusaikan dengan kode negara anda!
+
+> seusaikan dengan kode negara anda!
 > !menu
   (Melihat semua daftar menu)
 
@@ -42,6 +44,7 @@ j#seusaikan dengan kode negara anda!
 - Gunakan nomor cadangan untuk menghindari risiko banned.
 - Segala penyalahgunaan fitur bot ditanggung oleh pengguna.
 - key email rumasoreng757@gmail.com
-==========================================
+======================
+
     Copyright 2026 | Tuan Muda Developer
-==========================================
+       
