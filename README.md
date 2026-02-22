@@ -33,10 +33,10 @@ Ketik perintah ini di chat WhatsApp:
   (Melihat semua daftar menu)
 
 > !kirim [nomor_tujuan] [pesan]
-  Contoh: !kirim 6289512345678 Halo bos
+  Contoh: !kirim 628xxxxxxxx Halo bos
 
 > !spam [nomor_tujuan] [jumlah] [pesan]
-  Contoh: !spam 62xxxxx 10 P
+  Contoh: !spam 62xxxxxxxxx 10 P
 
 --- CATATAN PENTING ---
 - Gunakan nomor cadangan untuk menghindari risiko banned.
