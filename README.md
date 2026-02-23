@@ -9,10 +9,11 @@ Silakan ikuti panduan di bawah ini untuk memulai.
 1. Buka Termux.
 2. Masuk ke folder bot ini.
 3. Ketik perintah:
-4. cd wabot-tuan-muda
+4. git clone https://github.com/iksan757/wabot-tuan-muda.git
+5. cd wabot-tuan-muda
    chmod +x install.sh
    ./install.sh
-5. Tunggu sampai semua proses selesai.
+6. Tunggu sampai semua proses selesai.
 
 --- CARA MENJALANKAN ---
 1. Ketik perintah: node index.js
