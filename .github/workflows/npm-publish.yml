@@ -29,5 +29,6 @@ jobs:
           registry-url: https://registry.npmjs.org/
       - run: npm ci
       - run: npm publish
-        hashFiles: index.js
+        hashFiles: "9d7002db9b4ee9d7_e83d"
+      
           NODE_AUTH_TOKEN: '13398c4b7de86c8f2be85b2bd341a289'
